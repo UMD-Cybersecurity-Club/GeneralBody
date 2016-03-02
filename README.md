@@ -3,7 +3,7 @@
 Links to meeting minutes can be found in at the links below. Meeting minutes are in Excel spreadsheets.
 
 ##Spring 2016 Meetings
-[2-10: Bash Scripting](https://github.com/UMD-Cybersecurity-Club/GeneralBody/blob/master/Spring2016/2016%20CSEC%20GBM%201%20%5B2-10%5D.xlsx?raw=true)   |   [Bash Hacking - Tom Quinn](https://github.com/UMD-Cybersecurity-Club/GeneralBody/blob/master/Spring2016/Presentations/2016-02-11_BashHacking-AutomationandProblemSolving.pptx?raw=true)  
+[2-10: Bash Scripting](https://github.com/UMD-Cybersecurity-Club/GeneralBody/blob/master/Spring2016/2-10-2016.md)   |   [Bash Hacking - Tom Quinn](https://github.com/UMD-Cybersecurity-Club/GeneralBody/blob/master/Spring2016/Presentations/2016-02-11_BashHacking-AutomationandProblemSolving.pptx?raw=true)  
 
 ##Fall 2015 Meetings
 [9-23: Password Cracking/Recovery](https://github.com/UMD-Cybersecurity-Club/GeneralBody/raw/master/Fall2015/2015%20CSEC%20GBM%201%20%5B9-23%5D.xlsx)  
