@@ -4,6 +4,7 @@ Links to meeting minutes can be found in at the links below. Meeting minutes are
 
 ## Fall 2016 Meetings
 [Booz Allen Hamilton](https://github.com/UMD-Cybersecurity-Club/GeneralBody/blob/master/Fall2016/BAH%20Summer%20Intern%20Flyer.pdf)
+
 [FedCentric - Insider Threats](https://github.com/UMD-Cybersecurity-Club/GeneralBody/blob/master/Fall2016/Cyber%20Security%20Club%20Abstract%20.pdf) | (https://github.com/UMD-Cybersecurity-Club/GeneralBody/blob/master/Fall2016/FedCentric%20Brochure.pdf) | (https://github.com/UMD-Cybersecurity-Club/GeneralBody/blob/master/Fall2016/FedCentric-Company-Brochure.pdf) | (https://github.com/UMD-Cybersecurity-Club/GeneralBody/blob/master/Fall2016/FedCentric-Technical-Brochure.pdf)
 
 ##Spring 2016 Meetings
